@@ -179,7 +179,7 @@ let i01 = 0
 let soma01 = 0
 while (i01 <= 32){
   soma01 = soma01 + i01
-  i02 ++
+  i01 ++
 }
 
 export const resposta01 = soma01
@@ -196,7 +196,7 @@ while (i02 <= 50){
   i02 += 2
 }
 
-export const resposta02 = false
+export const resposta02 = soma02
 
 /* Questão 03
 Crie um laço de repetição while que conte quantos números negativos existem no
@@ -294,7 +294,7 @@ while (i07 < nomes.length) {
 nomes.length = "comprimento da lista"
 nomes[0].length = "comprimento do item de texto"
 
-export const resposta07 = false
+export const resposta07 = i07
 
 /* Questão 08
 Ainda com a lista de nomes, crie um novo array onde todos os nomes estejam
