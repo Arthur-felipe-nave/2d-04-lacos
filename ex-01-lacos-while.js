@@ -179,7 +179,7 @@ let i01 = 0
 let soma01 = 0
 while (i01 <= 32){
   soma01 = soma01 + i01
-  i02 ++
+  i01 ++
 }
 
 export const resposta01 = soma01
