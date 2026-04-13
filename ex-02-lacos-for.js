@@ -237,7 +237,7 @@ for (let i = 0; i <= 200; i += 3) {
 }
 media04 = soma04 / quantidade04
 
-export const resposta04 = media
+export const resposta04 = media04
 
 // Lista para as questões 5 a 8:
 const itensDomesticos = [
